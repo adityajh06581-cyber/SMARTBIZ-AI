@@ -1,0 +1,8 @@
+{
+  "name": "SmartBiz",
+  "description": "SmartBiz Shop Management System for inventory, sales, customers, suppliers, financial reports, low stock alerts, and AI business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
